@@ -9,9 +9,6 @@ for the QA tester course in IT Bootcamp
 - Radio buttons
 - Buttons
 
-Path to Chrome Web Driver
-Java version
-
 ## Project Setup
 Java version used: 1.8
 
